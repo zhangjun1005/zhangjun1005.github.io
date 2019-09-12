@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # resume
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# myResume
+个人简历
+>>>>>>> 5ae67c146d0017a86e9118f65ea26f71d47b7740
